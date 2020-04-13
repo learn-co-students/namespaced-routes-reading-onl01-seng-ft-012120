@@ -6,3 +6,5 @@ class StatsController < ApplicationController
     @last_post = Post.last
   end
 end
+
+#
